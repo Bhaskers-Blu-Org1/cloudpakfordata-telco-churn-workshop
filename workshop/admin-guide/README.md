@@ -1,3 +1,10 @@
+OPENSCALE:
+
+Setup: Don't use http for DB url
+Can use DB2 on IBM Cloud
+Don't use SSL
+Setup fast path
+
 # Admin guide
 
 > **NOTE**: This section requires `Admin` user access to the Cloud Pak for Data cluster. An administrator will present this part for the workshop.
