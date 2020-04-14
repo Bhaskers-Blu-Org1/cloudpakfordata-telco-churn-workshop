@@ -1,5 +1,6 @@
 OPENSCALE:
 
+Make sure WML is setup FIRST.
 Setup: Don't use http for DB url
 Can use DB2 on IBM Cloud
 Don't use SSL
